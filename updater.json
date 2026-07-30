@@ -1,13 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  {
-
-                                                           },
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRE1oN1hoR2tVcUFPakVWSUpTOVpoZVZ1ZklnbnJvVHBxeFl3aVNIb3B6aHh0dnBoVy8xbDBha05VcTNTeW42ckdkcTRRclBwcmNXblVCVDdjSkNNOU5OdW9xdDJsY3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDUwMjMxCWZpbGU6d1ZQTl8wLjEuMl94NjQtc2V0dXAubnNpcy56aXAKc00xTHZlSHVYUWlFSHBROGZmRloyMFV4bFVhbjNMSGRWNW93ZEZQMlVpODJOSXhLN3ZTSjUrUTh0aXBxZUFsZS90dzBjUGVjbnZ0Y0NaOW13cFBOQUE9PQo=",
                                              "url":  "https://github.com/theExeEXE/wvpn-releases/raw/main/wVPN_0.1.2_x64-setup.nsis.zip"
                                          }
                   },
-    "pub_date":  "2026-07-30T22:23:30Z",
+    "pub_date":  "2026-07-30T22:24:01Z",
     "version":  "0.1.2",
     "notes":  "Новые плавные анимации скачивания и исправлено окно обновления"
 }
