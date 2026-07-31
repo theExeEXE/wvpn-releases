@@ -1,15 +1,15 @@
-{
-  "version": "0.1.3",
-  "notes": "Dummy update",
-  "pub_date": "2026-07-31T10:19:03.980Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRE1oN1hoR2tVcUFPakVWSUpTOVpoZVZ1ZklnbnJvVHBxeFl3aVNIb3B6aHh0dnBoVy8xbDBha05VcTNTeW42ckdkcTRRclBwcmNXblVCVDdjSkNNOU5OdW9xdDJsY3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDUwMjMxCWZpbGU6d1ZQTl8wLjEuMl94NjQtc2V0dXAubnNpcy56aXAKc00xTHZlSHVYUWlFSHBROGZmRloyMFV4bFVhbjNMSGRWNW93ZEZQMlVpODJOSXhLN3ZTSjUrUTh0aXBxZUFsZS90dzBjUGVjbnZ0Y0NaOW13cFBOQUE9PQo=",
-      "url": "https://github.com/theExeEXE/wvpn-releases/raw/main/wVPN_0.1.2_x64-setup.nsis.zip"
-    },
-    "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRE1oN1hoR2tVcUFPakVWSUpTOVpoZVZ1ZklnbnJvVHBxeFl3aVNIb3B6aHh0dnBoVy8xbDBha05VcTNTeW42ckdkcTRRclBwcmNXblVCVDdjSkNNOU5OdW9xdDJsY3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDUwMjMxCWZpbGU6d1ZQTl8wLjEuMl94NjQtc2V0dXAubnNpcy56aXAKc00xTHZlSHVYUWlFSHBROGZmRloyMFV4bFVhbjNMSGRWNW93ZEZQMlVpODJOSXhLN3ZTSjUrUTh0aXBxZUFsZS90dzBjUGVjbnZ0Y0NaOW13cFBOQUE9PQo=",
-      "url": "https://github.com/theExeEXE/wvpn-releases/raw/main/wVPN_0.1.2_x64-setup.nsis.zip"
-    }
-  }
+﻿{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRE1oN1hoR2tVcU91QmVkbnFwMnlGa1FtQytKc1l1ZXFkUW5UMUM0TWltb1RmNWYyZ25zWVFGalJjZjgxcjBZd1BVUmNDUElzUmN4ai80dlVlbXZMTSs2TUIrQmljYVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDkzNjgxCWZpbGU6d1ZQTl8wLjEuM194NjQtc2V0dXAubnNpcy56aXAKbm5nSzFIcTEzSUsvUEdESG5BcjhtNVc5cjNSenNBU2Z4TCtnY3RDSDFtaWtETmFBa29pV1pGWDEvSStMeElJbmVRZ3I1NTdEaUFIMHFRZmo1Nk9hRGc9PQo=",
+                                             "url":  "https://github.com/theExeEXE/wvpn-releases/raw/main/wVPN_0.1.3_x64-setup.nsis.zip"
+                                         },
+                      "windows-x86_64-nsis":  {
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRE1oN1hoR2tVcU91QmVkbnFwMnlGa1FtQytKc1l1ZXFkUW5UMUM0TWltb1RmNWYyZ25zWVFGalJjZjgxcjBZd1BVUmNDUElzUmN4ai80dlVlbXZMTSs2TUIrQmljYVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDkzNjgxCWZpbGU6d1ZQTl8wLjEuM194NjQtc2V0dXAubnNpcy56aXAKbm5nSzFIcTEzSUsvUEdESG5BcjhtNVc5cjNSenNBU2Z4TCtnY3RDSDFtaWtETmFBa29pV1pGWDEvSStMeElJbmVRZ3I1NTdEaUFIMHFRZmo1Nk9hRGc9PQo=",
+                                                  "url":  "https://github.com/theExeEXE/wvpn-releases/raw/main/wVPN_0.1.3_x64-setup.nsis.zip"
+                                              }
+                  },
+    "pub_date":  "2026-07-31T10:28:01Z",
+    "version":  "0.1.4",
+    "notes":  "Тестовое обновление 0.1.4"
 }
