@@ -1,15 +1,15 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRE1oN1hoR2tVcUhjV0F3QzlTY2NMY3ZPM29jYlhRTVU4QSsrWUZsNWQ3K0wxdlVLaHJFNlZrQ0didk9vMXpQM0JEcFhYeFFvc2RiOStsbzNFTG53czRmaTB4ZUJZMWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDk3MzYzCWZpbGU6d1ZQTl8wLjEuNV94NjQtc2V0dXAuZXhlCmphYzV2RllBdFF0MnMyeUxUdHhQbCtyUGswRFArS3JJWUdLMFd4V2J2T3lRZUVTdGtlSjZRblRud3loR2x5VFdUc0ZSYkxXbkdJak8vQ3BuVVBxM0RnPT0K",
-                                             "url":  "https://github.com/theExeEXE/wvpn-releases/raw/main/wVPN_0.1.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRE1oN1hoR2tVcUxIU2g4aEFydE9CdmFUZUdUNmZObUtsQ1MvdDZ6eXJzUmdXRzhMS1g3Qjg1SWJBK0YyYm84UmNwUjFQaFUwR1BnSEd2bmttS01oSHVWNHNtMEd5S0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDk4MjI5CWZpbGU6d1ZQTl8wLjEuNl94NjQtc2V0dXAuZXhlCkpZMWd0b1FxejRGQTBHVFdRWFpJTGJwU1RRRmVoV291ZExxR2Mzb0tGRENhWnJrVnp5K3loSE96LzlCRGE5NGpURjlCaGdIamtEaytYdDc0TnRKNURBPT0K",
+                                             "url":  "https://github.com/theExeEXE/wvpn-releases/raw/main/wVPN_0.1.6_x64-setup.exe"
                                          },
                       "windows-x86_64-nsis":  {
-                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRE1oN1hoR2tVcUhjV0F3QzlTY2NMY3ZPM29jYlhRTVU4QSsrWUZsNWQ3K0wxdlVLaHJFNlZrQ0didk9vMXpQM0JEcFhYeFFvc2RiOStsbzNFTG53czRmaTB4ZUJZMWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDk3MzYzCWZpbGU6d1ZQTl8wLjEuNV94NjQtc2V0dXAuZXhlCmphYzV2RllBdFF0MnMyeUxUdHhQbCtyUGswRFArS3JJWUdLMFd4V2J2T3lRZUVTdGtlSjZRblRud3loR2x5VFdUc0ZSYkxXbkdJak8vQ3BuVVBxM0RnPT0K",
-                                                  "url":  "https://github.com/theExeEXE/wvpn-releases/raw/main/wVPN_0.1.5_x64-setup.exe"
+                                                  "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRE1oN1hoR2tVcUxIU2g4aEFydE9CdmFUZUdUNmZObUtsQ1MvdDZ6eXJzUmdXRzhMS1g3Qjg1SWJBK0YyYm84UmNwUjFQaFUwR1BnSEd2bmttS01oSHVWNHNtMEd5S0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDk4MjI5CWZpbGU6d1ZQTl8wLjEuNl94NjQtc2V0dXAuZXhlCkpZMWd0b1FxejRGQTBHVFdRWFpJTGJwU1RRRmVoV291ZExxR2Mzb0tGRENhWnJrVnp5K3loSE96LzlCRGE5NGpURjlCaGdIamtEaytYdDc0TnRKNURBPT0K",
+                                                  "url":  "https://github.com/theExeEXE/wvpn-releases/raw/main/wVPN_0.1.6_x64-setup.exe"
                                               }
                   },
-    "pub_date":  "2026-07-31T11:30:55Z",
-    "version":  "0.1.5",
-    "notes":  "Реальное обновление 0.1.5 (Новый дизайн окна)"
+    "pub_date":  "2026-07-31T11:44:08Z",
+    "version":  "0.1.6",
+    "notes":  "Тестирование нового окна обновления"
 }
